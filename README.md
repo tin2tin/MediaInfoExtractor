@@ -7,7 +7,7 @@ Download MediaInfo Command Line(CLI): https://mediaarea.net/en/MediaInfo/Downloa
 
 Unpack it.
 
-In Blender install MediaInfoExtractor.py trough User Preferences > Add-ons > Install Add-on from file...
+In Blender install https://github.com/tin2tin/MediaInfoExtractor/raw/master/MediaInfoExtractor.py trough User Preferences > Add-ons > Install Add-on from file...
 
 In the add-on preferences, select the folder button to open file browser.
 

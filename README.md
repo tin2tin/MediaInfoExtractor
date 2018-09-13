@@ -1,7 +1,11 @@
 # MediaInfoExtractor
 Extract MediaInfo data from video strips in the Blender Video Sequencer.
 
-###Usage:
+### Video tutorial:
+
+https://youtu.be/_ynfs3JkYTo
+
+### Usage:
 
 Download MediaInfo Command Line(CLI): https://mediaarea.net/en/MediaInfo/Download 
 
@@ -22,7 +26,3 @@ Click Match Strips.
 The Properties > Render Settings > Ratio and Frame Rate will be set strip properties.
 
 A file will be opened in the Text Editor with the full MediaInfo data.
-
-###Video tutorial:
-
-https://youtu.be/_ynfs3JkYTo

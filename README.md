@@ -17,11 +17,11 @@ In the add-on preferences, select the folder button to open file browser.
 
 Uncheck 'Relative Paths' and locate MediaInfo.exe where you unpacked it.
 
-A button will be added to VSE strip editor > Properties > Strip (Panel) > Source: Copy to Output Settings
+A button will be added to VSE strip editor > Properties > Strip (Panel) > Source > Copy to Output Settings
 
 Select a video strip in the Sequencer.
 
-Click Match Strips.
+Click Copy to Output Settings.
 
 The Properties > Render Settings > Ratio and Frame Rate will be set strip properties.
 

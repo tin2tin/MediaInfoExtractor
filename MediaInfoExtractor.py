@@ -4,7 +4,7 @@ bl_info = {
     "author": "Patrick W. Crawford, Krzysztof Trzcinski, Tintwotin",
     "version": (1, 2),
     "blender": (2, 80, 0),
-    "location": "VSE strip editor > Properties > Edit Strip (Panel): Match Strips",
+    "location": "VSE strip editor > Properties > Edit Strip (Panel): Copy to Output Properties",
     "wiki_url": "",
     "tracker_url":"",
     "category": "Sequencer"}
